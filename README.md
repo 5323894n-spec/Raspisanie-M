@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/c1cc4b5d-148d-4ae5-ba9d-91dae
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+### Deployment to GitHub Pages
+The project is configured with `base: '/Raspisanie-M/'` in `vite.config.ts`.
+To deploy:
+1. Run `npm run build`
+2. Follow the GitHub Pages instructions for the `dist` folder.
