@@ -1,5 +1,5 @@
 {
-  "name": "Расписание",
+  "name": "Raspisanie",
   "description": "Приложение для автоматического форматирования расписаний в утвержденную форму на основе реестров и данных GTFS.",
   "requestFramePermissions": [],
   "majorCapabilities": []
